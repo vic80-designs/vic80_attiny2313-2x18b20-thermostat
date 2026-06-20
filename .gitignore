@@ -1,0 +1,14 @@
+# Временные файлы компиляции Microchip / Atmel Studio
+**/Debug/
+**/Release/
+*.obj
+*.lst
+*.map
+*.lss
+*.eep
+*.elf
+*.xml
+
+# Специфический кэш самой IDE
+.vs/
+*.atsln.gpd
